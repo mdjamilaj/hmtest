@@ -1,0 +1,166 @@
+.dropDiv{
+float: left;
+width: 100%;
+margin: 0 0 10px 0;
+background: #262931;
+color: #DDD;
+}
+	.dropDiv p{
+	line-height: 33px;
+	margin: 0;
+	padding: 0 10px;
+	}
+
+	.classGreen{
+	background:#26B99A;
+	}
+	
+	.classOrange{
+	background:RGBA(243, 160, 2, 0.91);
+	}
+	
+	.classBlue{
+	background:#01A9F4;
+	}
+	
+	.classRed{
+	background:RGBA(231, 76, 60, 0.81);
+	}
+
+	.classBlack{
+		background:#434E54;
+	}
+
+	#classGreen{
+		background:#26B99A;
+	}
+	
+	#classOrange{
+		background:RGBA(243, 160, 2, 0.91);
+	}
+	
+	#classBlue{
+		background:#01A9F4;
+	}
+	
+	#classRed{
+		background:RGBA(231, 76, 60, 0.81);
+	}
+	
+	#classBlack{
+		background:#434E54;
+	}
+
+	.customLink{
+	color:#DDD;
+	text-decoration:none;
+	}
+		.customLink:hover{
+		text-decoration:none;
+		color:RGBA(231, 76, 60, 0.81);
+		}
+		
+	.table > tbody > tr > td{
+	white-space: nowrap;
+	}
+	
+	.table>thead>tr>th{
+		white-space: nowrap;
+	}
+
+	.modal-header{
+		background:#2A3F54;
+		box-shadow:rgba(0, 0, 0, 0.25) 0 1px 0, inset rgba(255, 255, 255, 0.16) 0 1px 0;
+		text-shadow: rgba(0, 0, 0, 0.25) 0 -1px 0;
+		color:#E7E7E7;
+	}
+	
+	.close{
+		color: #FFF;
+		opacity: 0.5;
+	}
+
+	.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td{
+	padding: 5px 8px;
+	vertical-align:inherit;
+	}
+	
+	.modal-footer .btn + .btn{
+		margin-bottom: 5px;
+	}
+
+	#footerPartCustom{
+	float: left; width: 100%; background: #FFF; height: 40px; border: 1px solid #DDD; line-height: 40px; 
+	padding: 0 10px; bottom: 0; position: fixed;
+	}
+		#footerPartCustom p{
+		color:#405367;	
+		}
+	
+	#companyTitle{
+	color:#1479B8; 
+	font-size:13px;	
+	transition:0.6s;
+	font-weight:bold;
+	text-decoration:none;
+	}
+		#companyTitle:hover{
+		color:#E74C3C;
+		}
+		
+	.clockTime{
+	color:#60D7EB;
+	}
+	
+	.bgBlue{
+	background:#00C0EF;
+	}
+	.bgGreen{ 
+	background:#4DB848; 
+	}
+	.bgOrange{ 
+	background:#F39C12; 
+	}
+	.bgRed{ 
+	background:#F56954; 
+	}
+	
+	.tile_count .tile_stats_count{
+    padding: 10px 0;
+    border: 4px solid #F7F7F7;
+	text-align:center;
+	transition:0.6s;
+	border-radius:7px;
+	}
+		.tile_stats_count:hover{
+		background:#455C73;
+		}
+	
+	.tile_stats_count .right {
+    padding:0 10px;
+	}
+
+	.tile_stats_count .right span{
+	color:#FFF;	
+	}
+	
+	.tile_stats_count .count{
+	color:#FFF;
+	font-size:20px;
+	}
+	
+	.organizationName{
+	color:#385775;
+	}
+	
+	.generalForm{
+	background-color: #FAEED7;
+	padding: 10px 0;
+	border: 1px solid #DDD;
+	}
+	
+	.modal-footer{
+	float: left;
+	width: 100%;
+	}
+	

@@ -1,0 +1,55 @@
+table, th, td {
+			border22: 3px solid black;
+			border-collapse: collapse;
+			padding:0 3px;
+		}
+		
+		
+		
+		
+		td{
+			padding: 5px;
+		}
+		
+		
+		#tableBorderNone{
+		border:none;
+		width:100%;
+		}
+			
+			#tableBorderNone tr22{
+			border-bottom: 1px solid green;
+			}
+			
+			
+			#tableBorderNone th{
+			border:none;
+			}
+			
+			#tableBorderNone td{
+			border:none;
+			}
+			
+
+		#rowBorderTop{
+		border-top: 1px solid green;
+		}
+			#rowBorderTop td{
+			font-style:italic;
+			}
+		
+		
+		.stuName{
+		font-size:12px;
+		}
+		
+		#rotate{
+			-webkit-transform:rotate(-90deg);
+			transform:rotate(-90deg);
+		}
+		
+		#marksRow{
+			border-bottom: 4px double black;
+		}
+		
+		

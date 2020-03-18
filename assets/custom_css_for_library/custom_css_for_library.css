@@ -1,0 +1,12 @@
+
+/* start: book entry */
+	.full-width{
+		width : 100%;
+	}
+	.label-text-control{
+		padding-left : 8px; padding-right : 5px; margin-top : 8px; font-weight: normal; color: #8a6d3b;
+	}
+	.required{
+		color : red;
+	}
+/* end: book entry */

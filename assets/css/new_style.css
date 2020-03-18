@@ -1,0 +1,12 @@
+.page-title .title_left {
+    width: 90%;
+    float: left;
+    display: block;
+}
+
+.page-title .title_right {
+    width: 10%;
+    float: left;
+    display: block;
+    background: #8a6d3b;
+}
